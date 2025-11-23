@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { Scene } from '../types';
 import { Play, Check, AlertCircle, Loader2, Video as VideoIcon } from 'lucide-react';

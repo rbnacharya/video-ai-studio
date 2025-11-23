@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { Check, Loader2, Sparkles, CreditCard, ShieldCheck } from 'lucide-react';
 import { PricingTier } from '../types';

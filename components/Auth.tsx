@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { Aperture, Check } from 'lucide-react';
 import { signInWithGoogle } from '../services/firebase';
